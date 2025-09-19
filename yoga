@@ -1,0 +1,474 @@
+{
+  "yogas": [
+    {
+      "id": 1,
+      "name": "Tadasana (Mountain Pose)",
+      "duration": "1-2 minutes",
+      "steps_en": [
+        "Stand with feet together, arms at sides.",
+        "Distribute weight evenly on both feet.",
+        "Inhale deeply and stretch arms overhead.",
+        "Keep spine elongated and shoulders relaxed.",
+        "Lift your heels slightly to balance if comfortable.",
+        "Hold for 1–2 minutes while breathing normally.",
+        "Exhale and slowly bring arms down."
+      ],
+      "steps_hi": [
+        "पैरों को साथ मिलाकर सीधे खड़े हो जाएं।",
+        "दोनों पैरों पर वजन समान रूप से रखें।",
+        "गहरी सांस लेते हुए हाथों को सिर के ऊपर उठाएं।",
+        "रीढ़ सीधी रखें और कंधों को ढीला छोड़ें।",
+        "संतुलन बनाने के लिए एड़ियों को हल्का उठाएं।",
+        "1–2 मिनट तक सामान्य सांस लेते हुए मुद्रा में रहें।",
+        "सांस छोड़ते हुए हाथों को धीरे-धीरे नीचे लाएं।"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Vrikshasana (Tree Pose)",
+      "duration": "1 minute each side",
+      "steps_en": [
+        "Stand straight with arms at sides.",
+        "Shift weight to left leg and place right foot on left thigh.",
+        "Balance and bring palms together in prayer position at chest.",
+        "Inhale and stretch arms overhead.",
+        "Focus on a point in front for stability.",
+        "Hold for 1 minute, breathing deeply.",
+        "Switch sides and repeat."
+      ],
+      "steps_hi": [
+        "सीधे खड़े हो जाएं और हाथों को बगल में रखें।",
+        "पूरा वजन बाएं पैर पर डालें और दाएं पैर को बाईं जांघ पर रखें।",
+        "संतुलन बनाते हुए हाथों को छाती के सामने जोड़ें।",
+        "गहरी सांस लेते हुए हाथों को सिर के ऊपर उठाएं।",
+        "संतुलन के लिए सामने एक बिंदु पर ध्यान केंद्रित करें।",
+        "1 मिनट तक मुद्रा में रहें।",
+        "फिर दूसरी ओर बदलकर दोहराएं।"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Adho Mukha Svanasana (Downward Facing Dog)",
+      "duration": "1-2 minutes",
+      "steps_en": [
+        "Start on your hands and knees in a tabletop position.",
+        "Spread fingers wide and press palms into the floor.",
+        "Exhale and lift hips towards the ceiling.",
+        "Straighten legs as much as possible without locking knees.",
+        "Keep heels reaching toward the floor.",
+        "Relax head between arms and gaze toward legs.",
+        "Hold for 1–2 minutes, breathing deeply."
+      ],
+      "steps_hi": [
+        "हाथ और घुटनों के बल टेबल पोज़ में आएं।",
+        "हथेलियों को जमीन पर मजबूती से रखें।",
+        "सांस छोड़ते हुए कूल्हों को ऊपर उठाएं।",
+        "पैरों को जितना हो सके सीधा करें, पर घुटने लॉक न करें।",
+        "एड़ियों को जमीन की ओर दबाएं।",
+        "सिर को हाथों के बीच आराम से रखें।",
+        "1–2 मिनट तक गहरी सांस लेते हुए मुद्रा में रहें।"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Bhujangasana (Cobra Pose)",
+      "duration": "30 seconds – 1 minute",
+      "steps_en": [
+        "Lie on your stomach with legs extended.",
+        "Place palms under shoulders, elbows close to body.",
+        "Inhale and lift chest off the ground using back strength.",
+        "Keep elbows slightly bent and shoulders relaxed.",
+        "Lift head and look upward.",
+        "Hold for 30 seconds to 1 minute.",
+        "Exhale and slowly lower down."
+      ],
+      "steps_hi": [
+        "पेट के बल लेटें और पैरों को सीधा रखें।",
+        "हथेलियों को कंधों के नीचे रखें।",
+        "गहरी सांस लेते हुए छाती को ऊपर उठाएं।",
+        "कोहनियों को हल्का मोड़ा हुआ रखें।",
+        "सिर को ऊपर उठाकर आसमान की ओर देखें।",
+        "30 सेकंड से 1 मिनट तक मुद्रा में रहें।",
+        "सांस छोड़ते हुए धीरे-धीरे नीचे आएं।"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Paschimottanasana (Seated Forward Bend)",
+      "duration": "1-2 minutes",
+      "steps_en": [
+        "Sit with legs extended straight forward.",
+        "Inhale and raise arms overhead.",
+        "Exhale and bend forward from hips, reaching toward feet.",
+        "Keep spine elongated, avoid rounding back.",
+        "Hold feet, ankles, or shins as comfortable.",
+        "Relax head and breathe deeply for 1–2 minutes.",
+        "Inhale and slowly rise back up."
+      ],
+      "steps_hi": [
+        "पैरों को सीधा फैलाकर बैठें।",
+        "गहरी सांस लेते हुए हाथों को ऊपर उठाएं।",
+        "सांस छोड़ते हुए कूल्हों से आगे झुकें।",
+        "रीढ़ को सीधा रखें।",
+        "पैर, टखनों या पिंडलियों को पकड़ें।",
+        "1–2 मिनट तक गहरी सांस लेते हुए मुद्रा में रहें।",
+        "सांस लेते हुए धीरे-धीरे ऊपर आएं।"
+      ]
+    },
+
+    {
+      "id": 6,
+      "name": "Padmasana (Lotus Pose)",
+      "duration": "2-5 minutes",
+      "steps_en": [
+        "Sit on the floor with legs extended.",
+        "Bend the right knee and place the foot on the left thigh.",
+        "Bend the left knee and place the foot on the right thigh.",
+        "Place hands on knees in a mudra position.",
+        "Keep spine straight and shoulders relaxed.",
+        "Close eyes and breathe deeply.",
+        "Stay in this posture for 2–5 minutes."
+      ],
+      "steps_hi": [
+        "फर्श पर बैठकर पैरों को फैलाएं।",
+        "दाएं पैर को मोड़कर बाईं जांघ पर रखें।",
+        "बाएं पैर को मोड़कर दाईं जांघ पर रखें।",
+        "हाथों को घुटनों पर रखें।",
+        "रीढ़ सीधी रखें और कंधों को ढीला छोड़ें।",
+        "आंखें बंद करें और गहरी सांस लें।",
+        "2–5 मिनट तक इसी मुद्रा में रहें।"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Trikonasana (Triangle Pose)",
+      "duration": "30 seconds each side",
+      "steps_en": [
+        "Stand with feet wide apart.",
+        "Turn right foot outward 90 degrees, left foot slightly inward.",
+        "Spread arms parallel to the floor.",
+        "Exhale and bend sideways to the right, touching right foot with right hand.",
+        "Stretch left arm toward the ceiling, gaze upward.",
+        "Hold for 30 seconds and breathe deeply.",
+        "Repeat on the other side."
+      ],
+      "steps_hi": [
+        "पैरों को फैलाकर खड़े हो जाएं।",
+        "दाएं पैर को 90 डिग्री बाहर और बाएं पैर को थोड़ा अंदर घुमाएं।",
+        "हाथों को कंधे की सीध में फैलाएं।",
+        "सांस छोड़ते हुए दाईं ओर झुकें और दाएं पैर को छुएं।",
+        "बाएं हाथ को ऊपर उठाएं और ऊपर देखें।",
+        "30 सेकंड तक मुद्रा में रहें।",
+        "दूसरी ओर दोहराएं।"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Virabhadrasana I (Warrior I Pose)",
+      "duration": "30 seconds each side",
+      "steps_en": [
+        "Stand with feet apart.",
+        "Turn right foot forward and left foot slightly inward.",
+        "Bend the right knee to 90 degrees.",
+        "Raise arms overhead with palms together.",
+        "Keep chest open and gaze upward.",
+        "Hold for 30 seconds.",
+        "Repeat on the other side."
+      ],
+      "steps_hi": [
+        "पैरों को फैलाकर खड़े हो जाएं।",
+        "दाएं पैर को आगे और बाएं पैर को हल्का अंदर करें।",
+        "दाएं घुटने को 90 डिग्री तक मोड़ें।",
+        "हाथों को सिर के ऊपर जोड़ें।",
+        "छाती को सीधा रखें और ऊपर देखें।",
+        "30 सेकंड तक मुद्रा में रहें।",
+        "दूसरी ओर दोहराएं।"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Virabhadrasana II (Warrior II Pose)",
+      "duration": "30 seconds each side",
+      "steps_en": [
+        "Stand with feet wide apart.",
+        "Turn right foot outward and left foot slightly inward.",
+        "Bend the right knee over the ankle.",
+        "Stretch arms out to the sides parallel to the floor.",
+        "Gaze over the right hand.",
+        "Hold for 30 seconds.",
+        "Repeat on the other side."
+      ],
+      "steps_hi": [
+        "पैरों को फैलाकर खड़े हो जाएं।",
+        "दाएं पैर को बाहर और बाएं पैर को हल्का अंदर करें।",
+        "दाएं घुटने को टखने के ऊपर मोड़ें।",
+        "हाथों को कंधों की सीध में फैलाएं।",
+        "दाएं हाथ की ओर देखें।",
+        "30 सेकंड तक मुद्रा में रहें।",
+        "दूसरी ओर दोहराएं।"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Setu Bandhasana (Bridge Pose)",
+      "duration": "30-60 seconds",
+      "steps_en": [
+        "Lie on your back with knees bent and feet flat.",
+        "Keep feet hip-width apart, arms at sides.",
+        "Inhale and lift hips upward.",
+        "Press arms and shoulders into the floor.",
+        "Keep thighs parallel and chest lifted.",
+        "Hold for 30–60 seconds.",
+        "Exhale and slowly lower hips down."
+      ],
+      "steps_hi": [
+        "पीठ के बल लेटें और घुटनों को मोड़ें।",
+        "पैरों को कूल्हों की चौड़ाई पर रखें।",
+        "गहरी सांस लेते हुए कूल्हों को ऊपर उठाएं।",
+        "हाथों और कंधों को जमीन पर दबाएं।",
+        "जांघों को समानांतर रखें और छाती को ऊपर उठाएं।",
+        "30–60 सेकंड तक मुद्रा में रहें।",
+        "सांस छोड़ते हुए धीरे-धीरे नीचे आएं।"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Dhanurasana (Bow Pose)",
+      "duration": "20-30 seconds",
+      "steps_en": [
+        "Lie on your stomach with arms at sides.",
+        "Bend knees and hold ankles with hands.",
+        "Inhale and lift chest and thighs upward.",
+        "Pull legs upward to form a bow shape.",
+        "Gaze forward and breathe deeply.",
+        "Hold for 20–30 seconds.",
+        "Exhale and release slowly."
+      ],
+      "steps_hi": [
+        "पेट के बल लेटें।",
+        "घुटनों को मोड़ें और टखनों को पकड़ें।",
+        "गहरी सांस लेते हुए छाती और जांघों को ऊपर उठाएं।",
+        "पैरों को ऊपर खींचें ताकि शरीर धनुष जैसा लगे।",
+        "आगे देखें और गहरी सांस लें।",
+        "20–30 सेकंड तक मुद्रा में रहें।",
+        "सांस छोड़ते हुए धीरे-धीरे नीचे आएं।"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Halasana (Plow Pose)",
+      "duration": "30-60 seconds",
+      "steps_en": [
+        "Lie on your back with arms at sides.",
+        "Inhale and lift legs up to 90 degrees.",
+        "Support hips with hands and bring legs over head.",
+        "Touch toes to the floor behind the head.",
+        "Keep spine straight and breathe normally.",
+        "Hold for 30–60 seconds.",
+        "Exhale and slowly return to starting position."
+      ],
+      "steps_hi": [
+        "पीठ के बल लेटें और हाथ बगल में रखें।",
+        "गहरी सांस लेते हुए पैरों को 90 डिग्री तक उठाएं।",
+        "हाथों से कूल्हों को सहारा दें।",
+        "पैरों को सिर के पीछे जमीन पर रखें।",
+        "रीढ़ को सीधा रखें और सामान्य सांस लें।",
+        "30–60 सेकंड तक मुद्रा में रहें।",
+        "सांस छोड़ते हुए धीरे-धीरे नीचे आएं।"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Sarvangasana (Shoulder Stand)",
+      "duration": "30-60 seconds",
+      "steps_en": [
+        "Lie on your back with arms at sides.",
+        "Inhale and lift legs upward.",
+        "Support lower back with hands.",
+        "Keep legs and spine straight, body resting on shoulders.",
+        "Gaze at the toes and breathe deeply.",
+        "Hold for 30–60 seconds.",
+        "Exhale and gently lower legs down."
+      ],
+      "steps_hi": [
+        "पीठ के बल लेटें।",
+        "गहरी सांस लेते हुए पैरों को ऊपर उठाएं।",
+        "कमर को हाथों से सहारा दें।",
+        "पैरों और रीढ़ को सीधा रखें।",
+        "पैरों की ओर देखें और गहरी सांस लें।",
+        "30–60 सेकंड तक मुद्रा में रहें।",
+        "सांस छोड़ते हुए धीरे-धीरे पैरों को नीचे लाएं।"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Matsyasana (Fish Pose)",
+      "duration": "30-60 seconds",
+      "steps_en": [
+        "Lie on your back with legs extended.",
+        "Place hands under hips, palms down.",
+        "Inhale and lift chest upward, arching back.",
+        "Tilt head backward, crown touching the floor.",
+        "Keep legs straight and relax arms.",
+        "Hold for 30–60 seconds.",
+        "Exhale and return slowly."
+      ],
+      "steps_hi": [
+        "पीठ के बल लेटें और पैरों को फैलाएं।",
+        "हाथों को कूल्हों के नीचे रखें।",
+        "गहरी सांस लेते हुए छाती को ऊपर उठाएं।",
+        "सिर को पीछे झुकाएं और फर्श पर टिकाएं।",
+        "पैर सीधे रखें और हाथ ढीले छोड़ें।",
+        "30–60 सेकंड तक मुद्रा में रहें।",
+        "सांस छोड़ते हुए धीरे-धीरे नीचे आएं।"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Ardha Matsyendrasana (Half Spinal Twist)",
+      "duration": "30 seconds each side",
+      "steps_en": [
+        "Sit with legs extended.",
+        "Bend right knee and place foot outside left thigh.",
+        "Bend left knee and keep foot near right hip.",
+        "Place right hand behind for support.",
+        "Inhale and place left elbow outside right knee.",
+        "Twist torso to the right and gaze over shoulder.",
+        "Hold for 30 seconds and switch sides."
+      ],
+      "steps_hi": [
+        "पैर फैलाकर बैठें।",
+        "दाएं पैर को मोड़कर बाईं जांघ के बाहर रखें।",
+        "बाएं पैर को मोड़कर दाएं कूल्हे के पास रखें।",
+        "दाएं हाथ को पीछे जमीन पर रखें।",
+        "गहरी सांस लेते हुए बाईं कोहनी को दाएं घुटने के बाहर रखें।",
+        "धड़ को दाईं ओर मोड़ें और पीछे देखें।",
+        "30 सेकंड तक मुद्रा में रहें और फिर बदलें।"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Ustrasana (Camel Pose)",
+      "duration": "20-30 seconds",
+      "steps_en": [
+        "Kneel on the floor with thighs perpendicular.",
+        "Place hands on hips.",
+        "Inhale and arch back, placing palms on heels.",
+        "Push hips forward and open chest.",
+        "Tilt head back and gaze upward.",
+        "Hold for 20–30 seconds.",
+        "Exhale and return slowly."
+      ],
+      "steps_hi": [
+        "घुटनों के बल बैठें।",
+        "हाथों को कमर पर रखें।",
+        "गहरी सांस लेते हुए पीछे झुकें और हाथों को एड़ियों पर रखें।",
+        "कूल्हों को आगे धकेलें और छाती खोलें।",
+        "सिर को पीछे झुकाएं।",
+        "20–30 सेकंड तक मुद्रा में रहें।",
+        "सांस छोड़ते हुए वापस आएं।"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Shalabhasana (Locust Pose)",
+      "duration": "20-30 seconds",
+      "steps_en": [
+        "Lie on your stomach with arms at sides.",
+        "Inhale and lift head, chest, and legs upward.",
+        "Keep arms alongside body, palms facing down.",
+        "Engage core and glutes for strength.",
+        "Hold for 20–30 seconds.",
+        "Exhale and slowly lower down."
+      ],
+      "steps_hi": [
+        "पेट के बल लेटें।",
+        "गहरी सांस लेते हुए सिर, छाती और पैरों को ऊपर उठाएं।",
+        "हाथों को शरीर के पास रखें।",
+        "पेट और कूल्हों को कसें।",
+        "20–30 सेकंड तक मुद्रा में रहें।",
+        "सांस छोड़ते हुए धीरे-धीरे नीचे आएं।"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Balasana (Child's Pose)",
+      "duration": "1-2 minutes",
+      "steps_en": [
+        "Kneel on the floor and sit back on heels.",
+        "Spread knees wide apart.",
+        "Exhale and fold forward, placing forehead on floor.",
+        "Stretch arms forward or keep alongside body.",
+        "Relax entire body and breathe deeply.",
+        "Stay for 1–2 minutes.",
+        "Inhale and return slowly."
+      ],
+      "steps_hi": [
+        "घुटनों के बल बैठें और एड़ियों पर बैठें।",
+        "घुटनों को फैलाएं।",
+        "सांस छोड़ते हुए आगे झुकें और माथा जमीन पर रखें।",
+        "हाथों को आगे फैलाएं या शरीर के पास रखें।",
+        "पूरा शरीर ढीला छोड़ दें।",
+        "1–2 मिनट तक मुद्रा में रहें।",
+        "सांस लेते हुए वापस आएं।"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Shavasana (Corpse Pose)",
+      "duration": "5-10 minutes",
+      "steps_en": [
+        "Lie flat on your back with legs slightly apart.",
+        "Arms relaxed at sides, palms facing upward.",
+        "Close eyes and breathe naturally.",
+        "Relax every part of the body, from head to toe.",
+        "Release all tension and thoughts.",
+        "Stay for 5–10 minutes.",
+        "Gently move fingers and toes to end the pose."
+      ],
+      "steps_hi": [
+        "पीठ के बल सीधा लेटें।",
+        "पैरों को हल्का फैलाएं और हाथों को ढीला रखें।",
+        "आंखें बंद करें और सामान्य सांस लें।",
+        "सिर से पैर तक पूरे शरीर को ढीला छोड़ दें।",
+        "तनाव और विचारों को छोड़ दें।",
+        "5–10 मिनट तक इसी मुद्रा में रहें।",
+        "धीरे-धीरे हाथ-पैर हिलाकर मुद्रा समाप्त करें।"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Surya Namaskar (Sun Salutation)",
+      "duration": "12 steps sequence",
+      "steps_en": [
+        "1. Pranamasana – Stand with palms joined in prayer.",
+        "2. Hastauttanasana – Inhale and raise arms overhead.",
+        "3. Padahastasana – Exhale and bend forward.",
+        "4. Ashwa Sanchalanasana – Step right leg back, look up.",
+        "5. Dandasana – Step left leg back, body in plank.",
+        "6. Ashtanga Namaskar – Lower knees, chest, and chin.",
+        "7. Bhujangasana – Inhale and lift chest upward.",
+        "8. Adho Mukha Svanasana – Exhale, hips up.",
+        "9. Ashwa Sanchalanasana – Step right leg forward.",
+        "10. Padahastasana – Bring left leg forward, bend down.",
+        "11. Hastauttanasana – Inhale, raise arms upward.",
+        "12. Pranamasana – Exhale, palms in prayer at chest."
+      ],
+      "steps_hi": [
+        "1. प्रणामासन – हाथ जोड़कर खड़े हो जाएं।",
+        "2. हस्त उत्तानासन – गहरी सांस लेकर हाथ ऊपर उठाएं।",
+        "3. पदहस्तासन – सांस छोड़ते हुए आगे झुकें।",
+        "4. अश्व संचलनासन – दायां पैर पीछे ले जाएं, ऊपर देखें।",
+        "5. दंडासन – बायां पैर पीछे ले जाकर प्लैंक पोज़ बनाएं।",
+        "6. अष्टांग नमस्कार – घुटने, छाती और ठोड़ी जमीन पर रखें।",
+        "7. भुजंगासन – सांस लेते हुए छाती ऊपर उठाएं।",
+        "8. अधोमुख श्वानासन – सांस छोड़ते हुए कूल्हे ऊपर उठाएं।",
+        "9. अश्व संचलनासन – दायां पैर आगे लाएं।",
+        "10. पदहस्तासन – बायां पैर आगे लाकर झुकें।",
+        "11. हस्त उत्तानासन – सांस लेते हुए हाथ ऊपर उठाएं।",
+        "12. प्रणामासन – सांस छोड़ते हुए हाथ जोड़ लें।"
+      ]
+    }
+
+  ]
+}
